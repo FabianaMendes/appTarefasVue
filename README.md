@@ -11,8 +11,6 @@ Lista de tarefas com opções de incluir e excluir. Quando há mais que 4 tarefa
 ⚡✅  Finalizado - Concluído  ✅⚡
 
 
-# minhas-tarefas
-
 ## Project setup
 ```
 npm install
